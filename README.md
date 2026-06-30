@@ -1,45 +1,102 @@
-# Hi there, I'm Dhanraj 👋
+# Hi 👋, I'm Dhanraj Kumar
 
-🎯 **Aspiring Python Developer | AI Enthusiast | Stock Market Analyst**  
-💡 Passionate about coding, automation, financial markets, and entrepreneurship.
+### Full-Stack Developer | MERN Stack | React.js | Node.js | Express.js | MongoDB
+
+I'm a passionate Full-Stack Developer who enjoys building modern, scalable, and user-friendly web applications. I continuously improve my skills through hands-on projects, open-source learning, and real-world development experience.
 
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year B.Tech student
-- 📈 Equity Derivatives Trader (Indices & Weekly Options)
-- 🧠 Learning AI, Python, Full-Stack Development, and Order Flow Analysis
-- 📚 Love reading books on finance, business, and personal growth
-- 🎥 Creating YouTube content summarizing impactful books
+
+- 💻 Full-Stack Web Developer (MERN)
+- 🌱 Currently learning Advanced MERN Stack & Data Structures and Algorithms
+- 🔭 Building full-stack web applications
+- 🎯 Interested in Software Engineering and Backend Development
+- 📚 Always learning new technologies and best practices
 
 ---
 
-## 🛠 Skills & Tools
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask, Django (learning), Pygame
-- **Libraries:** Pandas, Numpy, BeautifulSoup, NLTK
-- **Databases:** MySQL, SQLite
-- **Other Tools:** Git, Excel, Power BI
+## 🛠️ Tech Stack
+
+### Languages
+
+- JavaScript
+- Python
+- C++
+- HTML5
+- CSS3
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Vite
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
 
 ---
 
-## 📌 Featured Projects
-Here are some of my top projects. You can find more in my [All Python Programs Repository](https://github.com/dhanrajk046/All-python-programs).
+## 📂 Featured Projects
 
-### 🐍 Python Projects
-- **[Ultra Smart Chatbot](https://github.com/dhanrajk046/All-python-programs/blob/main/21.ultra%20smart%20chatbot.py)** – NLP chatbot using NLTK & WordNet
-- **[Front Desk Software](https://github.com/dhanrajk046/All-python-programs/blob/main/18.Front%20desk%20software.py)** – Hotel management CRUD system
-- **[Basic Web Scraper](https://github.com/dhanrajk046/All-python-programs/blob/main/10.Basic%20Web%20Scraper.py)** – Web scraping with BeautifulSoup
-- **[Crystal Runner Game](https://github.com/dhanrajk046/All-python-programs/blob/main/12.Crystal%20Runner%20Game.py)** – Fun Python game built with Pygame
+### 🍔 Food Genie
+
+Full-Stack Food Delivery Application built using the MERN Stack.
+
+### ✅ React Todo App
+
+Responsive Todo application with Local Storage support.
+
+### 🌦️ Weather Intelligence App
+
+Modern weather application built with React and Weather APIs.
+
+### 🛒 Full-Stack E-commerce Application
+
+Complete e-commerce platform with frontend and backend integration.
+
+### 📚 Sigma Web Development Course
+
+Hands-on practice, projects, and exercises completed while learning modern web development.
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhanraj-kumar-20a898176/)
-- 📧 Email: dhanrajk046@gmail.com
-- 📷 Instagram: *(optional)*
-- 🐦 Twitter/X: *(optional)*
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanraj046&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanraj046&layout=compact&theme=github_dark)
 
 ---
 
-⭐️ *"Code. Learn. Trade. Build."*
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/dhanraj046
+- LinkedIn: https://www.linkedin.com/in/dhanraj-kumar-20a898176/
+
+---
+
+## 📄 License
+
+This profile repository is licensed under the **MIT License**.
+
+---
+
+⭐ Thanks for visiting my profile!
