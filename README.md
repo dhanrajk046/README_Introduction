@@ -88,7 +88,7 @@ Hands-on practice, projects, and exercises completed while learning modern web d
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/dhanraj046
+- GitHub: https://github.com/dhanrajk046
 - LinkedIn: https://www.linkedin.com/in/dhanraj-kumar-20a898176/
 
 ---
